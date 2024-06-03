@@ -179,3 +179,45 @@ section {
 }
 
 @media (max-width: 767px) {}
+
+.blog-sec{
+    align-items: center;
+}
+
+.sec-title{
+    text-align: center;
+    padding: 10px 0 20px 0;
+}
+.blog-button{
+    text-align: center;
+    margin: 1rem;
+}
+.blog-item{
+    text-align: center;
+    margin: 1rem;
+}
+.card-item{
+    margin-bottom: 1rem;
+}
+h2{
+    color: #000000;
+}
+.section-title{
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+.section-title .line{
+    width: 60px;
+    height: 4px;
+    background-color: var(--primary-color);
+    margin: 16px auto 24px auto;
+}
+.section-title p {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.border-tell{
+    border: 5px solid red;
+}
