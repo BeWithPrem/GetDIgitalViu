@@ -221,3 +221,43 @@ h2{
 .border-tell{
     border: 5px solid red;
 }
+.text-footer{
+    color:var(--bg-white);
+    font-size: small;
+}
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-title{
+    font-size: medium;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    color: var(--bg-white);
+}
+.footer-bg{
+    background-color: #878787
+}
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  footer li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: var(--secondary-color);
+  }
+  .rec-post{
+    font-size: small;
+  }
+  .card-title{
+    font-size: small;
+  }
